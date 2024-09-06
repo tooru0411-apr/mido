@@ -5,6 +5,7 @@
 
 Installing
 ==========
+pip install mido python-rtmidi
 
 
 Requirements
